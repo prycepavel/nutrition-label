@@ -5,3 +5,14 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
+.label {
+  border: 2px solid black;
+}
+
+.label {
+  border: 2px solid black;
+  width: 270px;
+  margin: 20px auto;
+  padding: 0 7px;
+}
